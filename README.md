@@ -4,17 +4,18 @@ RatsValidator v1.6
 Open source for anyone to develop with
 Used various frameworks to build an app to allow people to post content anonymously
 
-Key features:<br>
--Post content with images(optional) anonymously<br>
--Anonymously comment on various posts<br>
--Vote on posts<br>
--Message community users anonymously<br>
--Get real time notifications<br>
+<ul>Key features:
+<li>Post content with images(optional) anonymously</li>
+<li>Anonymously comment on various posts</li>
+<li>Vote on posts</li>
+<li>Message community users anonymously</li>
+<li>Get real time notifications</li>
+</ul>
 
-Backend core - PHP and MySQL
+Backend core - <b>PHP</b> and <b>MySQL</b>
 Frontend - HTML CSS jQuery JavaScript
 
-Website: http://www.ratsvalidator.com
+Website: http://www.ratsvalidator.com<br>
 Contact Author: http://www.gamernova.net/contact-us
 
 Git: http://therealharsh.github.io/validator-app
