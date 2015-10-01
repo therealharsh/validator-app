@@ -2,7 +2,7 @@
 
 RatsValidator v1.6
 Open source for anyone to develop with
-Used various framworks to build an app to allow people to post content anonymously
+Used various frameworks to build an app to allow people to post content anonymously
 
 Backend core - PHP and MySQL
 Frontend - HTML CSS jQuery JavaScript
