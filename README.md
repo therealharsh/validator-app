@@ -1,6 +1,6 @@
 # validator-app
 
-<h>RatsValidator v1.6</h>
+<h>RatsValidator v1.6</h><br>
 Open source for anyone to develop with<br>
 Used various frameworks to build an app to allow people to post content anonymously
 
