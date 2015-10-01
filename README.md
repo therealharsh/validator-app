@@ -1,10 +1,10 @@
 # validator-app
 
-RatsValidator v1.6
-Open source for anyone to develop with
+<h>RatsValidator v1.6</h>
+Open source for anyone to develop with<br>
 Used various frameworks to build an app to allow people to post content anonymously
 
-<ul>Key features:
+<ul><b>Key features:</b>
 <li>Post content with images(optional) anonymously</li>
 <li>Anonymously comment on various posts</li>
 <li>Vote on posts</li>
@@ -12,14 +12,14 @@ Used various frameworks to build an app to allow people to post content anonymou
 <li>Get real time notifications</li>
 </ul>
 
-Backend core - <b>PHP</b> and <b>MySQL</b>
-Frontend - HTML CSS jQuery JavaScript
+<u>Backend core</u> - <b>PHP</b> and <b>MySQL</b><br>
+<u>Frontend</u> - <b>HTML CSS jQuery JavaScript</b>
 
-Website: http://www.ratsvalidator.com<br>
-Contact Author: http://www.gamernova.net/contact-us
+<u>Website:</u> http://www.ratsvalidator.com<br>
+<u>Contact Author:</u> http://www.gamernova.net/contact-us<br>
 
-Git: http://therealharsh.github.io/validator-app
+<u>Git:</u> http://therealharsh.github.io/validator-app
 
 
-Feel free to contact me if you have any additional questions
+Feel free to contact me if you have any additional questions<br>
 Enjoy!
