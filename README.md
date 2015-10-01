@@ -5,7 +5,7 @@ Open source for anyone to develop with
 Used various frameworks to build an app to allow people to post content anonymously
 
 Key features: 
--Post content with images(optional) anonymously
+-Post content with images(optional) anonymously<br>
 -Anonymously comment on various posts
 -Vote on posts
 -Message community users anonymously
